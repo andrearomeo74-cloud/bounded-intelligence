@@ -8,5 +8,4 @@ or forecasting errors, but as structural mismatches between scale,
 information, cost, and functional value.
 
 ## Markets & Proportionality
-
-- Market Dislocations – Congruity across leverage, liquidity, and time horizons
+- [Market Dislocations – Congruity across leverage, liquidity, and time horizons](market-dislocations.md)
