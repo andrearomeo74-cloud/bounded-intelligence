@@ -6,7 +6,7 @@ A theoretical framework for **bounded intelligence** and **systemic coherence**,
 - **I** — Information (throughput, noise, uncertainty)
 - **S** — Structure (complexity, coupling, fragility)
 - **V** — Functional Value (capability, outcome value, legitimacy)
-
+This repository intentionally avoids optimization targets, thresholds, or executable criteria.
 ---
 
 ## Core idea
