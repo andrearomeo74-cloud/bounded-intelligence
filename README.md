@@ -17,6 +17,31 @@ When scaling exceeds proportional constraints, efficiency drops, signal degrades
 This framework treats limits not as failures, but as **structural safeguards** of intelligence and legitimacy.
 
 ---
+## Energy as a cost of incoherence (Congruity inversion)
+
+In the Congruity 7.0 framework, energy is not treated as a primitive driver of intelligence.
+
+Instead, energy expenditure is interpreted as a **cost signal of unresolved structure**.
+
+When:
+- decisions fail to close locally,
+- information remains globally coupled,
+- structure scales without proportional resolution,
+
+then energy demand increases and is often misread as a fundamental requirement.
+
+This leads to a systematic inversion:
+
+> What appears as “energy demand” is often the shadow of architectural incoherence.
+
+Bounded intelligence emerges not because systems lack energy,
+but because **structural closure defines what intelligence is admissible**.
+
+Attempts to exceed this admissibility do not produce higher intelligence —
+they produce coordination overload, instability, and fragility.
+
+In this sense, bounded intelligence functions as a **protective constraint**
+that preserves coherence, legitimacy, and long-term viability.
 
 ## Conceptual formulation (non-empirical, non-clinical)
 
