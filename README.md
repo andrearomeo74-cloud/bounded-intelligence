@@ -1,4 +1,4 @@
-# Limited Intelligence (Intelligenza Limitata)
+se# Limited Intelligence (Intelligenza Limitata)
 
 A theoretical framework for **bounded intelligence** and **systemic coherence**, modeling limits as a proportional equilibrium between:
 
@@ -76,6 +76,16 @@ Where higher **C** indicates higher coherence per unit burden.
 This expression is **conceptual and comparative**, not a quantitative or predictive model.
 
 ---
+## Scope, Boundaries, and Non-Clinical Nature
+
+This repository presents **conceptual and theoretical** frameworks only.
+
+- It is **not** medical, clinical, or therapeutic guidance.
+- It does **not** provide diagnosis, treatment, or personalized advice.
+- It does **not** introduce operational thresholds, executable decision rules, or predictive guarantees.
+- Any practical application requires **independent empirical validation** and domain-specific review.
+
+The goal is **clarity, boundedness, and falsifiability where possible**, without over-claiming.
 
 ## What this repository **is**
 
