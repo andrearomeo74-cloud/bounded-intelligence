@@ -17,6 +17,26 @@ When scaling exceeds proportional constraints, efficiency drops, signal degrades
 This framework treats limits not as failures, but as **structural safeguards** of intelligence and legitimacy.
 
 ---
+## Law of Congruity (Foundational Principle)
+
+This repository is grounded in the **Law of Congruity**, a theoretical admissibility principle stating that
+system-level coherence emerges only when **Energy (E)**, **Information (I)**, **Structure (S)** and
+**Functional Value (V)** remain proportionally aligned.
+
+Congruity is **not** an optimization target, prediction engine, or control rule.
+It functions as a *boundary condition* distinguishing admissible from unstable system configurations.
+
+When proportionality breaks, systems do not fail randomly;
+they accumulate unresolved costs until coherence collapses or reorganizes at a different scale.
+
+This law is intentionally:
+- conceptual,
+- non-operational,
+- non-executable,
+
+and applies across domains (physics, cognition, biology, AI, economics) without introducing new constants
+or modifying existing physical laws.
+
 ## Energy as a cost of incoherence (Congruity inversion)
 
 In the Congruity 7.0 framework, energy is not treated as a primitive driver of intelligence.
