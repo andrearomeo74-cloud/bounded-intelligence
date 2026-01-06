@@ -86,6 +86,7 @@ This repository presents **conceptual and theoretical** frameworks only.
 - Any practical application requires **independent empirical validation** and domain-specific review.
 
 The goal is **clarity, boundedness, and falsifiability where possible**, without over-claiming.
+Canonical boundaries and scope definitions are provided in [BOUNDARIES.md](./BOUNDARIES.md).
 
 ## What this repository **is**
 
